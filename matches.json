@@ -15,5 +15,39 @@
       "forca": 4,
       "imagem": "https://logodetimes.com/times/argentina/selecao-argentina-de-futebol-2048.png"
     }
+  },
+  {
+    "descricao": "Eliminatórias da Copa 2022",
+    "local": {
+      "nome": "Estádio Centenário",
+      "imagem": "https://www.lance.com.br/files/article_main/uploads/2021/11/26/61a144d25523b.jpeg"
+    },
+    "mandante": {
+      "nome": "Uruguai",
+      "forca": 4,
+      "imagem": "https://i.pinimg.com/originals/52/f8/85/52f885d9d00e5e7e1f0131de1da18cb1.png"
+    },
+    "visitante": {
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019-com-estrelas/logo-selecao-brasileira-brasil-novo-logo-2019-com-estrelas-1536.png"
+    }
+  },
+  {
+    "descricao": "Eliminatórias da Copa 2022",
+    "local": {
+      "nome": "Estádio Nacional de Chile",
+      "imagem": "https://www.lance.com.br/files/article_main/uploads/2018/08/15/5b740ec705453.jpeg"
+    },
+    "mandante": {
+      "nome": "Chile",
+      "forca": 3,
+      "imagem": "https://w7.pngwing.com/pngs/344/1012/png-transparent-coat-of-arms-of-chile-coat-of-arms-of-argentina-por-la-razon-o-la-fuerza-escutcheon-chille-logo-escutcheon-student-activism-thumbnail.png"
+    },
+    "visitante": {
+      "nome": "Equador",
+      "forca": 2,
+      "imagem": "https://i2.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/12/escudo-Equador.png?fit=440%2C440&ssl=1"
+    }
   }
 ]
